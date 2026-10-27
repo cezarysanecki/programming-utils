@@ -32,3 +32,7 @@ Java 21 or newer, Gradle wrapper included.
 ```bash
 ./gradlew test
 ```
+
+## License
+
+MIT, see [`LICENSE`](LICENSE).
